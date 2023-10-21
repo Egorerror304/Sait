@@ -1,0 +1,35 @@
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+    background: antiquewhite;
+    maring: 11;
+}
+header{
+    text-decoration:none;
+    font-style: italic;
+    background-color: antiquewhite;
+    padding:10px
+}
+h1{
+    background: antiquewhite;
+    text-align:center;
+    color:gray
+}
+footer{
+    background-color: antiquewhite;
+}
+nav{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid lightblue;
+}
+nav a{
+    margin:60 px;
+    font-size: 20px;
+    text-decoration: none;
+    color:red
+}
+.egor{
+    background-color: aquamarine;
+}
+a 
